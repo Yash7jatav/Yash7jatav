@@ -47,6 +47,5 @@
 💡 "I don’t need a therapist, I just console.log() my problems! 😜"  
 
 ---
----
 
 🚀 **Let's build some awesome backend systems together!** 🤖
