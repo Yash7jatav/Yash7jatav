@@ -47,13 +47,6 @@
 💡 "I don’t need a therapist, I just console.log() my problems! 😜"  
 
 ---
-
-### **📢 To-Do for an Even More Attractive GitHub**
-✔️ Pin your best backend projects  
-✔️ Write clear documentation in project README files  
-✔️ Contribute to open-source backend projects  
-✔️ Keep learning & building! 🚀  
-
 ---
 
 🚀 **Let's build some awesome backend systems together!** 🤖
